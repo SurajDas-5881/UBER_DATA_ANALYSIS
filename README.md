@@ -2,8 +2,9 @@
 Analyzed the Uber company dataset and found meaning ful insights and visualized it using powerbi report.
 
 **About the Dataset**:
-This project explores a comprehensive dataset from Uber, the renowned multinational transportation network company. Uber's innovative platform connects riders with drivers through a mobile app, offering a seamless and convenient way to travel.
-*Their services range from standard cars (UberX) to luxury vehicles (UberBlack), all at competitive prices.
+This project explores a comprehensive dataset from Uber, the renowned multinational transportation network company. 
+Uber's innovative platform connects riders with drivers through a mobile app, offering a seamless and convenient way to travel.
+Their services range from standard cars (UberX) to luxury vehicles (UberBlack), all at competitive prices.
 
 **Tools Utilized**:
 POWER BI: Used for crafting captivating visualizations.
